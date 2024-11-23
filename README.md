@@ -68,7 +68,7 @@ Published on 13th October: In this blog, I've introduced Knative, an open-source
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza3741&langs_count=10&layout=compact)
 
-## My Resume 
+## 📝 My Resume 
 You can view my Resume by using the link below:
 
 [Resume]
