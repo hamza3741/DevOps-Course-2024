@@ -71,4 +71,4 @@ Published on 13th October: In this blog, I've introduced Knative, an open-source
 ## 📝 My Resume 
 You can view my Resume by using the link below:
 
-[Resume]
+[Resume](https://github.com/hamza3741/DevOps-Course-2024/blob/main/My%20Resume.pdf)
