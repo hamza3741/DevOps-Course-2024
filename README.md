@@ -62,7 +62,7 @@ Published on 13th October: In this blog, I've introduced Knative, an open-source
 </div>
 
 
-# 👩‍💻 Hamza's GitHub Stats
+# 👨‍💻 Hamza's GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamza3741&show_icons=true&count_private=true&hide=prs&theme=radical)
 
