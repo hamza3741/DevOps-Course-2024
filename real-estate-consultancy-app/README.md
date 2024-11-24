@@ -25,7 +25,7 @@ Make sure you have the following installed:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone <[repository-url](https://github.com/hamza3741/DevOps-Course-2024.git)>
+   git clone <https://github.com/hamza3741/DevOps-Course-2024.git>
    cd <[repository-directory](DevOps-Course-2024/real-estate-consultancy-app)>
    
 2. Build the Docker Image:
