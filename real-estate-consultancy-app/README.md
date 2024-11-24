@@ -26,7 +26,7 @@ Make sure you have the following installed:
 
    ```bash
    git clone <[repository-url](https://github.com/zaibunnisaq/DevOps-Course-2024/Docker_NGINX-Web-App)>
-   cd <[repository-directory](https://github.com/zaibunnisaq/DevOps-Course-2024)>
+   cd <[repository-directory](real-estate-consultancy-app)>
    
 2. Build the Docker Image:
 
